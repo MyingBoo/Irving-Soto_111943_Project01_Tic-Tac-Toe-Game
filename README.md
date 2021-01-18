@@ -1,4 +1,4 @@
-I created a tic tac tou game that you can play with someone, obviously on the same computer and passing the mouse to get your turn. It's a simple game since everyone 
+I created a tic tac toe game that you can play with someone, obviously on the same computer and passing the mouse to get your turn. It's a simple game since everyone 
 knows how to play a game of tic tac tou or x and 0 like we call them on Puerto Rico. This game consist on the graphics.py module, because that is what were working at the time.
 This game it's in turns and has a beginner level on iq, if you know where to start it's a win for you, believe me, I've lost a lot. It looks really long on the code, because to do
 this game it takes time if you don't know what you are working on like me, since I'm new at python. This game whas a little stressful because I had to look for information on how
